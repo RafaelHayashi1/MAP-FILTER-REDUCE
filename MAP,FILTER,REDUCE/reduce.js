@@ -11,7 +11,7 @@ const soma = numbers.reduce((accumulator, item)=>accumulator+item, 0) // accumul
 console.log(soma)
 */
 
-/*
+
 const phaseScores = [
     { name: 'Vinicius Costa', score: 337 },
     { name: 'Roger Melo', score: 43 },
@@ -33,4 +33,4 @@ const phaseScores = [
   },0) 
 
   console.log(score)
-  */
+  
